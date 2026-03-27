@@ -1,125 +1,9 @@
 [
     {
-        "name": "worn_concrete_floor",
-        "repo": "A3D-Blacksmith/BM-Silver",
+        "name": "concrete_slab_wall",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
         "manifest": {
-            "name": "Worn Concrete Floor",
-            "creator": "Polyhaven (Dimitrios Savva)",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "rough,weathered,uneven,old,cracked",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/worn_concrete_floor",
-            "powerplug": {
-                "mode": "blend",
-                "src": "worn_concrete_floor.blend"
-            }
-        },
-        "creator": "Polyhaven (Dimitrios Savva)",
-        "tags": "rough,weathered,uneven,old,cracked",
-        "realname": "Worn Concrete Floor",
-        "category": "Materials",
-<<<<<<< HEAD
-        "date": 1774357637.6697552,
-=======
-        "date": 1774477731.0925925,
->>>>>>> 24da3a3512d415e7fbe720359c69485c2ee6a8ee
-        "size": "76384493",
-        "thumbnail": "Assets/worn_concrete_floor/thumbnail.png",
-        "description": "Worn Concrete Floor from Poly Haven\nBy Dimitrious Savva\n\n\n\nWidth: 2.0m\n\nTD: 41 px/cm\n\n"
-    },
-    {
-        "name": "rusty_metal_04",
-        "repo": "A3D-Blacksmith/BM-Silver",
-        "manifest": {
-            "name": "Rusty Metal 04",
-            "creator": "Polyhaven (Amal Kumar)",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "metal sheet,metal,rusted,rusty,rust",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/rusty_metal_04",
-            "powerplug": {
-                "mode": "blend",
-                "src": "rusty_metal_04.blend"
-            }
-        },
-        "creator": "Polyhaven (Amal Kumar)",
-        "tags": "metal sheet,metal,rusted,rusty,rust",
-        "realname": "Rusty Metal 04",
-        "category": "Materials",
-<<<<<<< HEAD
-        "date": 1774357637.3407564,
-=======
-        "date": 1774477730.744592,
->>>>>>> 24da3a3512d415e7fbe720359c69485c2ee6a8ee
-        "size": "88274323",
-        "thumbnail": "Assets/rusty_metal_04/thumbnail.png",
-        "description": "Rusty Metal 04 from Poly Haven\n\nBy Amal Kumar\n\n\n\nWidth: 2.0m\n\nTD: 81.9 px/cm\n\n"
-    },
-    {
-        "name": "old_stone_wall",
-        "repo": "A3D-Blacksmith/BM-Silver",
-        "manifest": {
-            "name": "Old Stone Wall",
-            "creator": "Polyhaven (Charlotte Baglioni)",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "stone,wall,rock wall,stone wall",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/old_stone_wall",
-            "powerplug": {
-                "mode": "blend",
-                "src": "old_stone_wall.blend"
-            }
-        },
-        "creator": "Polyhaven (Charlotte Baglioni)",
-        "tags": "stone,wall,rock wall,stone wall",
-        "realname": "Old Stone Wall",
-        "category": "Materials",
-<<<<<<< HEAD
-        "date": 1774357636.853758,
-=======
-        "date": 1774477730.222591,
->>>>>>> 24da3a3512d415e7fbe720359c69485c2ee6a8ee
-        "size": "70302121",
-        "thumbnail": "Assets/old_stone_wall/thumbnail.png",
-        "description": "Old Stone Wall from Poly Haven\nBy Charlotte Baglioni\n\nWidth: 2.0m\nTD: 81.9 px/cm"
-    },
-    {
-        "name": "rock_embedded_concrete",
-        "repo": "A3D-Blacksmith/BM-Silver",
-        "manifest": {
-            "name": "Rock Embedded Concrete",
-            "creator": "Polyhaven (Dimitrios Savva)",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "rocks,embedded rock,pebbles",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/rock_embedded_concrete",
-            "powerplug": {
-                "mode": "blend",
-                "src": "rock_embedded_concrete.blend"
-            }
-        },
-        "creator": "Polyhaven (Dimitrios Savva)",
-        "tags": "rocks,embedded rock,pebbles",
-        "realname": "Rock Embedded Concrete",
-        "category": "Materials",
-<<<<<<< HEAD
-        "date": 1774357637.2367568,
-=======
-        "date": 1774477730.6345918,
->>>>>>> 24da3a3512d415e7fbe720359c69485c2ee6a8ee
-        "size": "73184288",
-        "thumbnail": "Assets/rock_embedded_concrete/thumbnail.png",
-        "description": "Rock Embedded Concrete from Poly Haven\nBy Dimitrios Savva\n\nWidth: 2.0m\nTD: 41 px/cm"
-    },
-    {
-        "name": "blue_painted_wall",
-        "repo": "A3D-Blacksmith/BM-Silver",
-        "manifest": {
-            "name": "Blue Painted Wall",
+            "name": "Concrete Slab Wall",
             "creator": "Quixel",
             "category": "Textures",
             "filename": "Assets.zip",
@@ -132,388 +16,755 @@
         },
         "creator": "Quixel",
         "tags": "",
-        "realname": "Blue Painted Wall",
+        "realname": "Concrete Slab Wall",
         "category": "Textures",
-        "date": 1774477729.6145897,
-        "size": "32739205",
-        "thumbnail": "Assets/blue_painted_wall/thumbnail.jpg",
+        "date": 1774650980.597832,
+        "size": "76678530",
+        "thumbnail": "Assets/concrete_slab_wall/thumbnail.png",
         "description": ""
     },
     {
-        "name": "cobblestone_pavement",
-        "repo": "A3D-Blacksmith/BM-Silver",
+        "name": "roof_slates_03",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
         "manifest": {
-            "name": "Cobblestone Pavement",
-            "creator": "Polyhaven (Charlotte Baglioni)",
-            "category": "Materials",
+            "name": "Roof Slates 03",
+            "creator": "Quixel",
+            "category": "Textures",
             "filename": "Assets.zip",
-            "tags": "cobblestone,cobblestones,rocks,squares",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/cobblestone_pavement",
+            "tags": "",
+            "website": "",
             "powerplug": {
-                "mode": "blend",
-                "src": "cobblestone_pavement.blend"
+                "mode": "textures",
+                "src": "textures"
             }
         },
-        "creator": "Polyhaven (Charlotte Baglioni)",
-        "tags": "cobblestone,cobblestones,rocks,squares",
-        "realname": "Cobblestone Pavement",
-        "category": "Materials",
-<<<<<<< HEAD
-        "date": 1774357636.4427593,
-=======
-        "date": 1774477729.77959,
->>>>>>> 24da3a3512d415e7fbe720359c69485c2ee6a8ee
-        "size": "67582690",
-        "thumbnail": "Assets/cobblestone_pavement/thumbnail.png",
-        "description": "Cobblestone Pavement from Poly Haven\nBy Charlotte Baglioni\n\n\n\nWidth: 2.5m\n\nTD: 65.5 px/cm\n\n"
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Roof Slates 03",
+        "category": "Textures",
+        "date": 1774650982.1178217,
+        "size": "42175479",
+        "thumbnail": "Assets/roof_slates_03/thumbnail.png",
+        "description": ""
     },
     {
-        "name": "wood_shutter",
-        "repo": "A3D-Blacksmith/BM-Silver",
+        "name": "gray_rocks",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
         "manifest": {
-            "name": "Wood Shutter",
-            "creator": "Polyhaven (Dimitrios Savva)",
-            "category": "Materials",
+            "name": "Gray Rocks",
+            "creator": "Quixel",
+            "category": "Textures",
             "filename": "Assets.zip",
-            "tags": "wood,rough,shutter,wood shutter",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/wood_shutter",
+            "tags": "",
+            "website": "",
             "powerplug": {
-                "mode": "blend",
-                "src": "wood_shutter.blend"
+                "mode": "textures",
+                "src": "textures"
             }
         },
-        "creator": "Polyhaven (Dimitrios Savva)",
-        "tags": "wood,rough,shutter,wood shutter",
-        "realname": "Wood Shutter",
-        "category": "Materials",
-<<<<<<< HEAD
-        "date": 1774357637.4977558,
-=======
-        "date": 1774477730.9105923,
->>>>>>> 24da3a3512d415e7fbe720359c69485c2ee6a8ee
-        "size": "61856240",
-        "thumbnail": "Assets/wood_shutter/thumbnail.png",
-        "description": "Wood Shutter from Poly Haven\n\nBy Dimitrious Savva\n\n\n\nWidth: 1.0m\n\nTD: 81.9 px/cm\n\n"
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Gray Rocks",
+        "category": "Textures",
+        "date": 1774650981.1038287,
+        "size": "87870745",
+        "thumbnail": "Assets/gray_rocks/thumbnail.png",
+        "description": ""
     },
     {
-        "name": "granite_tile_04",
-        "repo": "A3D-Blacksmith/BM-Silver",
+        "name": "wood_inlaid_concrete",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
         "manifest": {
-            "name": "Granite Tile 04",
-            "creator": "Polyhaven (Amal Kumar)",
-            "category": "Materials",
+            "name": "Wood Inlaid Concrete",
+            "creator": "Quixel",
+            "category": "Textures",
             "filename": "Assets.zip",
-            "tags": "rough,weathered,granite,stone tile",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/granite_tile_04",
+            "tags": "",
+            "website": "",
             "powerplug": {
-                "mode": "blend",
-                "src": "granite_tile_04.blend"
+                "mode": "textures",
+                "src": "textures"
             }
         },
-        "creator": "Polyhaven (Amal Kumar)",
-        "tags": "rough,weathered,granite,stone tile",
-        "realname": "Granite Tile 04",
-        "category": "Materials",
-<<<<<<< HEAD
-        "date": 1774357636.6197588,
-=======
-        "date": 1774477729.9705904,
->>>>>>> 24da3a3512d415e7fbe720359c69485c2ee6a8ee
-        "size": "76804186",
-        "thumbnail": "Assets/granite_tile_04/thumbnail.png",
-        "description": "Granite Tile 04 from Poly Haven\nBy Amal Kumar\n\nWidth: 2.0m\nTD: 41 px/cm"
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Wood Inlaid Concrete",
+        "category": "Textures",
+        "date": 1774650982.6538181,
+        "size": "76911851",
+        "thumbnail": "Assets/wood_inlaid_concrete/thumbnail.png",
+        "description": ""
     },
     {
-        "name": "whitewashed_brick",
-        "repo": "A3D-Blacksmith/BM-Silver",
+        "name": "grey_roof_tiles_02",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
         "manifest": {
-            "name": "Whitewashed Brick",
-            "creator": "Polyhaven (Charlotte Baglioni)",
-            "category": "Materials",
+            "name": "Grey Roof Tiles 02",
+            "creator": "Quixel",
+            "category": "Textures",
             "filename": "Assets.zip",
-            "tags": "rough,old,old brick,white,whitewashed",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/whitewashed_brick",
+            "tags": "",
+            "website": "",
             "powerplug": {
-                "mode": "blend",
-                "src": "whitewashed_brick.blend"
+                "mode": "textures",
+                "src": "textures"
             }
         },
-        "creator": "Polyhaven (Charlotte Baglioni)",
-        "tags": "rough,old,old brick,white,whitewashed",
-        "realname": "Whitewashed Brick",
-        "category": "Materials",
-<<<<<<< HEAD
-        "date": 1774357637.424756,
-=======
-        "date": 1774477730.8325922,
->>>>>>> 24da3a3512d415e7fbe720359c69485c2ee6a8ee
-        "size": "69586988",
-        "thumbnail": "Assets/whitewashed_brick/thumbnail.png",
-        "description": "Whitewashed Brick from Poly Haven\n\nBy Charlotte Baglioni\n\n\n\nWidth: 2.0m\n\nTD: 81.9 px/cm\n\n"
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Grey Roof Tiles 02",
+        "category": "Textures",
+        "date": 1774650981.1778283,
+        "size": "67170728",
+        "thumbnail": "Assets/grey_roof_tiles_02/thumbnail.png",
+        "description": ""
     },
     {
-        "name": "worn_brick_path",
-        "repo": "A3D-Blacksmith/BM-Silver",
+        "name": "aerial_grass_rock",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
         "manifest": {
-            "name": "Worn Brick Path",
-            "creator": "Polyhaven (Amal Kumar)",
-            "category": "Materials",
+            "name": "Aerial Grass Rock",
+            "creator": "Quixel",
+            "category": "Textures",
             "filename": "Assets.zip",
-            "tags": "rough,brick,bricks,herringbone",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/worn_brick_path",
+            "tags": "",
+            "website": "",
             "powerplug": {
-                "mode": "blend",
-                "src": "worn_brick_path.blend"
+                "mode": "textures",
+                "src": "textures"
             }
         },
-        "creator": "Polyhaven (Amal Kumar)",
-        "tags": "rough,brick,bricks,herringbone",
-        "realname": "Worn Brick Path",
-        "category": "Materials",
-<<<<<<< HEAD
-        "date": 1774357637.5797555,
-=======
-        "date": 1774477730.9975924,
->>>>>>> 24da3a3512d415e7fbe720359c69485c2ee6a8ee
-        "size": "69007008",
-        "thumbnail": "Assets/worn_brick_path/thumbnail.png",
-        "description": "Worn Brick Path from Poly Haven\nBy Amal Kumar\n\nWidth: 1.9m\nTD: 42 px/cm"
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Aerial Grass Rock",
+        "category": "Textures",
+        "date": 1774650980.2018347,
+        "size": "77252926",
+        "thumbnail": "Assets/aerial_grass_rock/thumbnail.png",
+        "description": ""
     },
     {
-        "name": "herringbone_concrete_tile_02",
-        "repo": "A3D-Blacksmith/BM-Silver",
+        "name": "rock_wall_16",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
         "manifest": {
-            "name": "Herringbone Concrete Tile 02",
-            "creator": "Polyhaven (Charlotte Baglioni)",
-            "category": "Materials",
+            "name": "Rock Wall 16",
+            "creator": "Quixel",
+            "category": "Textures",
             "filename": "Assets.zip",
-            "tags": "rough,uneven,weathered,wall,concrete",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/herringbone_concrete_tile_02",
+            "tags": "",
+            "website": "",
             "powerplug": {
-                "mode": "blend",
-                "src": "herringbone_concrete_tile_02.blend"
+                "mode": "textures",
+                "src": "textures"
             }
         },
-        "creator": "Polyhaven (Charlotte Baglioni)",
-        "tags": "rough,uneven,weathered,wall,concrete",
-        "realname": "Herringbone Concrete Tile 02",
-        "category": "Materials",
-<<<<<<< HEAD
-        "date": 1774357636.7007585,
-=======
-        "date": 1774477730.0575905,
->>>>>>> 24da3a3512d415e7fbe720359c69485c2ee6a8ee
-        "size": "69559206",
-        "thumbnail": "Assets/herringbone_concrete_tile_02/thumbnail.png",
-        "description": "Herringbone Concrete Tile 02 from Poly Haven\n\nBy Charlotte Baglioni\n\n\n\nWidth: 2.2m\n\nTD: 74 px/cm\n\n"
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Rock Wall 16",
+        "category": "Textures",
+        "date": 1774650981.8928235,
+        "size": "47214465",
+        "thumbnail": "Assets/rock_wall_16/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "corrugated_iron",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Corrugated Iron",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Corrugated Iron",
+        "category": "Textures",
+        "date": 1774650980.8128307,
+        "size": "73452309",
+        "thumbnail": "Assets/corrugated_iron/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "plaster_brick_01",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Plaster Brick 01",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Plaster Brick 01",
+        "category": "Textures",
+        "date": 1774650981.4188266,
+        "size": "67689107",
+        "thumbnail": "Assets/plaster_brick_01/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "stone_wall",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Stone Wall",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Stone Wall",
+        "category": "Textures",
+        "date": 1774650982.5018191,
+        "size": "58565157",
+        "thumbnail": "Assets/stone_wall/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "box_profile_metal_sheet",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Box Profile Metal Sheet",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Box Profile Metal Sheet",
+        "category": "Textures",
+        "date": 1774650980.3478336,
+        "size": "60187646",
+        "thumbnail": "Assets/box_profile_metal_sheet/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "rock_embedded_floor",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Rock Embedded Floor",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Rock Embedded Floor",
+        "category": "Textures",
+        "date": 1774650981.5828254,
+        "size": "76749935",
+        "thumbnail": "Assets/rock_embedded_floor/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "white_sandstone_blocks_02",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "White Sandstone Blocks 02",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "White Sandstone Blocks 02",
+        "category": "Textures",
+        "date": 1774650982.5708187,
+        "size": "64878516",
+        "thumbnail": "Assets/white_sandstone_blocks_02/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "rustic_stone_wall_02",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Rustic Stone Wall 02",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Rustic Stone Wall 02",
+        "category": "Textures",
+        "date": 1774650982.2718208,
+        "size": "84497954",
+        "thumbnail": "Assets/rustic_stone_wall_02/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "dry_riverbed_rock",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Dry Riverbed Rock",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Dry Riverbed Rock",
+        "category": "Textures",
+        "date": 1774650980.90783,
+        "size": "87233309",
+        "thumbnail": "Assets/dry_riverbed_rock/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "rough_plaster_broken",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Rough Plaster Broken",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Rough Plaster Broken",
+        "category": "Textures",
+        "date": 1774650982.1808214,
+        "size": "58627999",
+        "thumbnail": "Assets/rough_plaster_broken/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "red_brick_03",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Red Brick 03",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Red Brick 03",
+        "category": "Textures",
+        "date": 1774650981.497826,
+        "size": "71990197",
+        "thumbnail": "Assets/red_brick_03/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "rocky_terrain",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Rocky Terrain",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Rocky Terrain",
+        "category": "Textures",
+        "date": 1774650981.9688227,
+        "size": "70153524",
+        "thumbnail": "Assets/rocky_terrain/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "rock_wall_13",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Rock Wall 13",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Rock Wall 13",
+        "category": "Textures",
+        "date": 1774650981.7478244,
+        "size": "69345245",
+        "thumbnail": "Assets/rock_wall_13/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "stacked_stone_wall",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Stacked Stone Wall",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Stacked Stone Wall",
+        "category": "Textures",
+        "date": 1774650982.3478203,
+        "size": "70223225",
+        "thumbnail": "Assets/stacked_stone_wall/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "rock_face_03",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Rock Face 03",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Rock Face 03",
+        "category": "Textures",
+        "date": 1774650981.6698248,
+        "size": "80012346",
+        "thumbnail": "Assets/rock_face_03/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "aerial_rocks_02",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Aerial Rocks 02",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Aerial Rocks 02",
+        "category": "Textures",
+        "date": 1774650980.279834,
+        "size": "69835205",
+        "thumbnail": "Assets/aerial_rocks_02/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "rock_wall_15",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Rock Wall 15",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Rock Wall 15",
+        "category": "Textures",
+        "date": 1774650981.8408237,
+        "size": "85376459",
+        "thumbnail": "Assets/rock_wall_15/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "ganges_river_pebbles",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Ganges River Pebbles",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Ganges River Pebbles",
+        "category": "Textures",
+        "date": 1774650981.0058293,
+        "size": "89651470",
+        "thumbnail": "Assets/ganges_river_pebbles/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "coast_sand_rocks_02",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Coast Sand Rocks 02",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Coast Sand Rocks 02",
+        "category": "Textures",
+        "date": 1774650980.5138326,
+        "size": "84611905",
+        "thumbnail": "Assets/coast_sand_rocks_02/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "concrete_wall_004",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Concrete Wall 004",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Concrete Wall 004",
+        "category": "Textures",
+        "date": 1774650980.724831,
+        "size": "68241037",
+        "thumbnail": "Assets/concrete_wall_004/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "stone_tiles_02",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Stone Tiles 02",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Stone Tiles 02",
+        "category": "Textures",
+        "date": 1774650982.4378195,
+        "size": "85014052",
+        "thumbnail": "Assets/stone_tiles_02/thumbnail.png",
+        "description": ""
     },
     {
         "name": "cliff_side",
-        "repo": "A3D-Blacksmith/BM-Silver",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
         "manifest": {
             "name": "Cliff Side",
-            "creator": "Polyhaven (Dario Barresi, James Ray Cock and Jenelle van Heerden)",
-            "category": "Materials",
+            "creator": "Quixel",
+            "category": "Textures",
             "filename": "Assets.zip",
-            "tags": "cliff,rock face,rugged,eroded,boulder",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/cliff_side",
+            "tags": "",
+            "website": "",
             "powerplug": {
-                "mode": "blend",
-                "src": "cliff_side.blend"
+                "mode": "textures",
+                "src": "textures"
             }
         },
-        "creator": "Polyhaven (Dario Barresi, James Ray Cock and Jenelle van Heerden)",
-        "tags": "cliff,rock face,rugged,eroded,boulder",
+        "creator": "Quixel",
+        "tags": "",
         "realname": "Cliff Side",
-        "category": "Materials",
-<<<<<<< HEAD
-        "date": 1774357636.3647597,
-=======
-        "date": 1774477729.6955898,
->>>>>>> 24da3a3512d415e7fbe720359c69485c2ee6a8ee
-        "size": "64992598",
+        "category": "Textures",
+        "date": 1774650980.420833,
+        "size": "64792447",
         "thumbnail": "Assets/cliff_side/thumbnail.png",
-        "description": "Cliff Side from Poly Haven\nBy Dario Barresi, James Ray Cock and Jenelle van Heerden\n\n\n\nWidth: 1.8m\n\nTD: 89.5 px/cm\n\n"
+        "description": ""
     },
     {
-        "name": "red_brick",
-        "repo": "A3D-Blacksmith/BM-Silver",
+        "name": "herringbone_brick",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
         "manifest": {
-            "name": "Red Brick",
-            "creator": "Polyhaven (Rob Tuytel)",
-            "category": "Materials",
+            "name": "Herringbone Brick",
+            "creator": "Quixel",
+            "category": "Textures",
             "filename": "Assets.zip",
-            "tags": "brick,bricks,wall,red brick,brick wall",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/red_brick",
+            "tags": "",
+            "website": "",
             "powerplug": {
-                "mode": "blend",
-                "src": "red_brick.blend"
+                "mode": "textures",
+                "src": "textures"
             }
         },
-        "creator": "Polyhaven (Rob Tuytel)",
-        "tags": "brick,bricks,wall,red brick,brick wall",
-        "realname": "Red Brick",
-        "category": "Materials",
-<<<<<<< HEAD
-        "date": 1774357637.150757,
-=======
-        "date": 1774477730.5425916,
->>>>>>> 24da3a3512d415e7fbe720359c69485c2ee6a8ee
-        "size": "71838926",
-        "thumbnail": "Assets/red_brick/thumbnail.png",
-        "description": "Red Brick from Poly Haven\n\nBy Rob Tuytel\n\n\n\nWidth: 1.4m\n\nTD: 117 px/cm\n\n"
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Herringbone Brick",
+        "category": "Textures",
+        "date": 1774650981.2658277,
+        "size": "79448855",
+        "thumbnail": "Assets/herringbone_brick/thumbnail.png",
+        "description": ""
     },
     {
-        "name": "old_linuleum_flooring_01",
-        "repo": "A3D-Blacksmith/BM-Silver",
+        "name": "old_stone_wall_02",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
         "manifest": {
-            "name": "Old Linoleum Flooring 01",
-            "creator": "Polyhaven (Charlotte Baglioni)",
-            "category": "Materials",
+            "name": "Old Stone Wall 02",
+            "creator": "Quixel",
+            "category": "Textures",
             "filename": "Assets.zip",
-            "tags": "smooth,linolium,linoleum,glossy,vinyl",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/old_linoleum_flooring_01",
+            "tags": "",
+            "website": "",
             "powerplug": {
-                "mode": "blend",
-                "src": "old_linoleum_flooring_01.blend"
+                "mode": "textures",
+                "src": "textures"
             }
         },
-        "creator": "Polyhaven (Charlotte Baglioni)",
-        "tags": "smooth,linolium,linoleum,glossy,vinyl",
-        "realname": "Old Linoleum Flooring 01",
-        "category": "Materials",
-<<<<<<< HEAD
-        "date": 1774357636.7727582,
-=======
-        "date": 1774477730.1345906,
->>>>>>> 24da3a3512d415e7fbe720359c69485c2ee6a8ee
-        "size": "61593890",
-        "thumbnail": "Assets/old_linuleum_flooring_01/thumbnail.png",
-        "description": "Old Linoleum Flooring 01 from Poly Haven\nBy Charlotte Baglioni\n\n\n\nWidth: 2.0m\n\nTD: 82.3 px/cm\n\n"
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Old Stone Wall 02",
+        "category": "Textures",
+        "date": 1774650981.3438272,
+        "size": "70238474",
+        "thumbnail": "Assets/old_stone_wall_02/thumbnail.png",
+        "description": ""
     },
     {
-        "name": "blue_metal_plate",
-        "repo": "A3D-Blacksmith/BM-Silver",
+        "name": "concrete_wall_001",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
         "manifest": {
-            "name": "Blue Metal Plate",
-            "creator": "Polyhaven (Rob Tuytel)",
-            "category": "Materials",
+            "name": "Concrete Wall 001",
+            "creator": "Quixel",
+            "category": "Textures",
             "filename": "Assets.zip",
-            "tags": "scratched,metal sheet,metal,painted",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/blue_metal_plate",
+            "tags": "",
+            "website": "",
             "powerplug": {
-                "mode": "blend",
-                "src": "blue_metal_plate.blend"
+                "mode": "textures",
+                "src": "textures"
             }
         },
-        "creator": "Polyhaven (Rob Tuytel)",
-        "tags": "scratched,metal sheet,metal,painted",
-        "realname": "Blue Metal Plate",
-        "category": "Materials",
-<<<<<<< HEAD
-        "date": 1774357636.2907598,
-=======
-        "date": 1774477729.5735896,
->>>>>>> 24da3a3512d415e7fbe720359c69485c2ee6a8ee
-        "size": "25254736",
-        "thumbnail": "Assets/blue_metal_plate/thumbnail.png",
-        "description": "Blue Metal Plate from Poly Haven\nBy Rob Tuytel\n\n\n\nWidth: 2.5m\n\nTD: 65.5 px/cm\n\n"
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Concrete Wall 001",
+        "category": "Textures",
+        "date": 1774650980.6498318,
+        "size": "47496255",
+        "thumbnail": "Assets/concrete_wall_001/thumbnail.png",
+        "description": ""
     },
     {
-        "name": "oriented_strand_board",
-        "repo": "A3D-Blacksmith/BM-Silver",
+        "name": "rocky_terrain_03",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
         "manifest": {
-            "name": "Oriented Strand Board",
-            "creator": "Polyhaven (Dimitrios Savva)",
-            "category": "Materials",
+            "name": "Rocky Terrain 03",
+            "creator": "Quixel",
+            "category": "Textures",
             "filename": "Assets.zip",
-            "tags": "compressed,coated finish,coated wood",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/oriented_strand_board",
+            "tags": "",
+            "website": "",
             "powerplug": {
-                "mode": "blend",
-                "src": "oriented_strand_board.blend"
+                "mode": "textures",
+                "src": "textures"
             }
         },
-        "creator": "Polyhaven (Dimitrios Savva)",
-        "tags": "compressed,coated finish,coated wood",
-        "realname": "Oriented Strand Board",
-        "category": "Materials",
-<<<<<<< HEAD
-        "date": 1774357636.9577577,
-=======
-        "date": 1774477730.3335912,
->>>>>>> 24da3a3512d415e7fbe720359c69485c2ee6a8ee
-        "size": "89193460",
-        "thumbnail": "Assets/oriented_strand_board/thumbnail.png",
-        "description": "Oriented Strand Board from Poly Haven\nBy Dimitrious Savva\n\n\n\nWidth: 2.5m\n\nTD: 32.6 px/cm\n\n"
-    },
-    {
-        "name": "plastered_wall_05",
-        "repo": "A3D-Blacksmith/BM-Silver",
-        "manifest": {
-            "name": "Plastered Wall 05",
-            "creator": "Polyhaven (Charlotte Baglioni)",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "rough,scratched,gray,plaster,plastered",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/plastered_wall_05",
-            "powerplug": {
-                "mode": "blend",
-                "src": "plastered_wall_05.blend"
-            }
-        },
-        "creator": "Polyhaven (Charlotte Baglioni)",
-        "tags": "rough,scratched,gray,plaster,plastered",
-        "realname": "Plastered Wall 05",
-        "category": "Materials",
-<<<<<<< HEAD
-        "date": 1774357637.0677574,
-=======
-        "date": 1774477730.4525914,
->>>>>>> 24da3a3512d415e7fbe720359c69485c2ee6a8ee
-        "size": "92268214",
-        "thumbnail": "Assets/plastered_wall_05/thumbnail.png",
-        "description": "Plastered Wall 05 from Poly Haven\nBy Charlotte Baglioni\n\nWidth: 2.0m\nTD: 41 px/cm"
-    },
-    {
-        "name": "concrete_tile_facade",
-        "repo": "A3D-Blacksmith/BM-Silver",
-        "manifest": {
-            "name": "Concrete Tile Facade",
-            "creator": "Polyhaven (Charlotte Baglioni)",
-            "category": "Materials",
-            "filename": "Assets.zip",
-            "tags": "concrete,wall,walling,tiles,tiled wall",
-            "version": "1.00",
-            "website": "https://polyhaven.com/a/concrete_tile_facade",
-            "powerplug": {
-                "mode": "blend",
-                "src": "concrete_tile_facade.blend"
-            }
-        },
-        "creator": "Polyhaven (Charlotte Baglioni)",
-        "tags": "concrete,wall,walling,tiles,tiled wall",
-        "realname": "Concrete Tile Facade",
-        "category": "Materials",
-<<<<<<< HEAD
-        "date": 1774357636.530759,
-=======
-        "date": 1774477729.8745902,
->>>>>>> 24da3a3512d415e7fbe720359c69485c2ee6a8ee
-        "size": "68108869",
-        "thumbnail": "Assets/concrete_tile_facade/thumbnail.png",
-        "description": "Concrete Tile Facade from Poly Haven\nBy Charlotte Baglioni\n\n\n\nWidth: 2.1m\n\nTD: 39.2 px/cm\n\n"
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Rocky Terrain 03",
+        "category": "Textures",
+        "date": 1774650982.0718222,
+        "size": "97081335",
+        "thumbnail": "Assets/rocky_terrain_03/thumbnail.png",
+        "description": ""
     }
 ]
