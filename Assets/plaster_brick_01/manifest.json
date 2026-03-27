@@ -1,0 +1,12 @@
+{
+    "name": "Plaster Brick 01",
+    "creator": "Quixel",
+    "category": "Textures",
+    "filename": "Assets.zip",
+    "tags": "",
+    "website": "",
+    "powerplug": {
+        "mode": "textures",
+        "src": "textures"
+    }
+}
