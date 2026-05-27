@@ -1,9 +1,9 @@
 [
     {
-        "name": "wood_inlaid_concrete",
+        "name": "gray_rocks",
         "repo": "A3D-Blacksmith/BM-Mackerel",
         "manifest": {
-            "name": "Wood Inlaid Concrete",
+            "name": "Gray Rocks",
             "creator": "Quixel",
             "category": "Textures",
             "filename": "Assets.zip",
@@ -16,18 +16,18 @@
         },
         "creator": "Quixel",
         "tags": "",
-        "realname": "Wood Inlaid Concrete",
+        "realname": "Gray Rocks",
         "category": "Textures",
-        "date": 1779809969.8462598,
-        "size": "76911851",
-        "thumbnail": "Assets/wood_inlaid_concrete/thumbnail.png",
+        "date": 1779897009.5409338,
+        "size": "87870745",
+        "thumbnail": "Assets/gray_rocks/thumbnail.png",
         "description": ""
     },
     {
-        "name": "rock_wall_16",
+        "name": "grey_roof_tiles_02",
         "repo": "A3D-Blacksmith/BM-Mackerel",
         "manifest": {
-            "name": "Rock Wall 16",
+            "name": "Grey Roof Tiles 02",
             "creator": "Quixel",
             "category": "Textures",
             "filename": "Assets.zip",
@@ -40,59 +40,11 @@
         },
         "creator": "Quixel",
         "tags": "",
-        "realname": "Rock Wall 16",
+        "realname": "Grey Roof Tiles 02",
         "category": "Textures",
-        "date": 1779809969.1762598,
-        "size": "47214465",
-        "thumbnail": "Assets/rock_wall_16/thumbnail.png",
-        "description": ""
-    },
-    {
-        "name": "herringbone_brick",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Herringbone Brick",
-            "creator": "Quixel",
-            "category": "Textures",
-            "filename": "Assets.zip",
-            "tags": "",
-            "website": "",
-            "powerplug": {
-                "mode": "textures",
-                "src": "textures"
-            }
-        },
-        "creator": "Quixel",
-        "tags": "",
-        "realname": "Herringbone Brick",
-        "category": "Textures",
-        "date": 1779809968.63026,
-        "size": "79448855",
-        "thumbnail": "Assets/herringbone_brick/thumbnail.png",
-        "description": ""
-    },
-    {
-        "name": "stone_tiles_02",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Stone Tiles 02",
-            "creator": "Quixel",
-            "category": "Textures",
-            "filename": "Assets.zip",
-            "tags": "",
-            "website": "",
-            "powerplug": {
-                "mode": "textures",
-                "src": "textures"
-            }
-        },
-        "creator": "Quixel",
-        "tags": "",
-        "realname": "Stone Tiles 02",
-        "category": "Textures",
-        "date": 1779809969.6542597,
-        "size": "85014052",
-        "thumbnail": "Assets/stone_tiles_02/thumbnail.png",
+        "date": 1779897009.6069353,
+        "size": "67170728",
+        "thumbnail": "Assets/grey_roof_tiles_02/thumbnail.png",
         "description": ""
     },
     {
@@ -114,16 +66,16 @@
         "tags": "",
         "realname": "Dry Riverbed Rock",
         "category": "Textures",
-        "date": 1779809968.32326,
+        "date": 1779897009.3669302,
         "size": "87233309",
         "thumbnail": "Assets/dry_riverbed_rock/thumbnail.png",
         "description": ""
     },
     {
-        "name": "rock_face_03",
+        "name": "coast_sand_rocks_02",
         "repo": "A3D-Blacksmith/BM-Mackerel",
         "manifest": {
-            "name": "Rock Face 03",
+            "name": "Coast Sand Rocks 02",
             "creator": "Quixel",
             "category": "Textures",
             "filename": "Assets.zip",
@@ -136,11 +88,371 @@
         },
         "creator": "Quixel",
         "tags": "",
-        "realname": "Rock Face 03",
+        "realname": "Coast Sand Rocks 02",
         "category": "Textures",
-        "date": 1779809968.9832597,
-        "size": "80012346",
-        "thumbnail": "Assets/rock_face_03/thumbnail.png",
+        "date": 1779897009.0219228,
+        "size": "84611905",
+        "thumbnail": "Assets/coast_sand_rocks_02/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "corrugated_iron",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Corrugated Iron",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Corrugated Iron",
+        "category": "Textures",
+        "date": 1779897009.2819283,
+        "size": "73452309",
+        "thumbnail": "Assets/corrugated_iron/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "rocky_terrain",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Rocky Terrain",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Rocky Terrain",
+        "category": "Textures",
+        "date": 1779897010.31995,
+        "size": "70153524",
+        "thumbnail": "Assets/rocky_terrain/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "ganges_river_pebbles",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Ganges River Pebbles",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Ganges River Pebbles",
+        "category": "Textures",
+        "date": 1779897009.454932,
+        "size": "89651470",
+        "thumbnail": "Assets/ganges_river_pebbles/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "red_brick_03",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Red Brick 03",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Red Brick 03",
+        "category": "Textures",
+        "date": 1779897009.891941,
+        "size": "71990197",
+        "thumbnail": "Assets/red_brick_03/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "rock_embedded_floor",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Rock Embedded Floor",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Rock Embedded Floor",
+        "category": "Textures",
+        "date": 1779897009.9679427,
+        "size": "76749935",
+        "thumbnail": "Assets/rock_embedded_floor/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "stacked_stone_wall",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Stacked Stone Wall",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Stacked Stone Wall",
+        "category": "Textures",
+        "date": 1779897010.7389588,
+        "size": "70223225",
+        "thumbnail": "Assets/stacked_stone_wall/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "wood_inlaid_concrete",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Wood Inlaid Concrete",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Wood Inlaid Concrete",
+        "category": "Textures",
+        "date": 1779897011.0319648,
+        "size": "76911851",
+        "thumbnail": "Assets/wood_inlaid_concrete/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "box_profile_metal_sheet",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Box Profile Metal Sheet",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Box Profile Metal Sheet",
+        "category": "Textures",
+        "date": 1779897008.87392,
+        "size": "60187646",
+        "thumbnail": "Assets/box_profile_metal_sheet/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "plaster_brick_01",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Plaster Brick 01",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Plaster Brick 01",
+        "category": "Textures",
+        "date": 1779897009.8219397,
+        "size": "67689107",
+        "thumbnail": "Assets/plaster_brick_01/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "rock_wall_16",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Rock Wall 16",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Rock Wall 16",
+        "category": "Textures",
+        "date": 1779897010.2449486,
+        "size": "47214465",
+        "thumbnail": "Assets/rock_wall_16/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "roof_slates_03",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Roof Slates 03",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Roof Slates 03",
+        "category": "Textures",
+        "date": 1779897010.505954,
+        "size": "42175479",
+        "thumbnail": "Assets/roof_slates_03/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "aerial_rocks_02",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Aerial Rocks 02",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Aerial Rocks 02",
+        "category": "Textures",
+        "date": 1779897008.8129187,
+        "size": "69835205",
+        "thumbnail": "Assets/aerial_rocks_02/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "rock_wall_13",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Rock Wall 13",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Rock Wall 13",
+        "category": "Textures",
+        "date": 1779897010.1129458,
+        "size": "69345245",
+        "thumbnail": "Assets/rock_wall_13/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "cliff_side",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Cliff Side",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Cliff Side",
+        "category": "Textures",
+        "date": 1779897008.9409213,
+        "size": "64792447",
+        "thumbnail": "Assets/cliff_side/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "concrete_wall_001",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Concrete Wall 001",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Concrete Wall 001",
+        "category": "Textures",
+        "date": 1779897009.1439254,
+        "size": "47496255",
+        "thumbnail": "Assets/concrete_wall_001/thumbnail.png",
         "description": ""
     },
     {
@@ -162,9 +474,129 @@
         "tags": "",
         "realname": "Rustic Stone Wall 02",
         "category": "Textures",
-        "date": 1779809969.5092595,
+        "date": 1779897010.6509569,
         "size": "84497954",
         "thumbnail": "Assets/rustic_stone_wall_02/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "rocky_terrain_03",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Rocky Terrain 03",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Rocky Terrain 03",
+        "category": "Textures",
+        "date": 1779897010.4619532,
+        "size": "97081335",
+        "thumbnail": "Assets/rocky_terrain_03/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "concrete_wall_004",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Concrete Wall 004",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Concrete Wall 004",
+        "category": "Textures",
+        "date": 1779897009.210927,
+        "size": "68241037",
+        "thumbnail": "Assets/concrete_wall_004/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "rock_wall_15",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Rock Wall 15",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Rock Wall 15",
+        "category": "Textures",
+        "date": 1779897010.1969476,
+        "size": "85376459",
+        "thumbnail": "Assets/rock_wall_15/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "white_sandstone_blocks_02",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "White Sandstone Blocks 02",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "White Sandstone Blocks 02",
+        "category": "Textures",
+        "date": 1779897010.9549632,
+        "size": "64878516",
+        "thumbnail": "Assets/white_sandstone_blocks_02/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "aerial_grass_rock",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Aerial Grass Rock",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Aerial Grass Rock",
+        "category": "Textures",
+        "date": 1779897008.7309167,
+        "size": "77252926",
+        "thumbnail": "Assets/aerial_grass_rock/thumbnail.png",
         "description": ""
     },
     {
@@ -186,7 +618,7 @@
         "tags": "",
         "realname": "Old Stone Wall 02",
         "category": "Textures",
-        "date": 1779809968.69626,
+        "date": 1779897009.7539382,
         "size": "70238474",
         "thumbnail": "Assets/old_stone_wall_02/thumbnail.png",
         "description": ""
@@ -210,57 +642,9 @@
         "tags": "",
         "realname": "Concrete Slab Wall",
         "category": "Textures",
-        "date": 1779809968.06026,
+        "date": 1779897009.0969245,
         "size": "76678530",
         "thumbnail": "Assets/concrete_slab_wall/thumbnail.png",
-        "description": ""
-    },
-    {
-        "name": "cliff_side",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Cliff Side",
-            "creator": "Quixel",
-            "category": "Textures",
-            "filename": "Assets.zip",
-            "tags": "",
-            "website": "",
-            "powerplug": {
-                "mode": "textures",
-                "src": "textures"
-            }
-        },
-        "creator": "Quixel",
-        "tags": "",
-        "realname": "Cliff Side",
-        "category": "Textures",
-        "date": 1779809967.9052603,
-        "size": "64792447",
-        "thumbnail": "Assets/cliff_side/thumbnail.png",
-        "description": ""
-    },
-    {
-        "name": "box_profile_metal_sheet",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Box Profile Metal Sheet",
-            "creator": "Quixel",
-            "category": "Textures",
-            "filename": "Assets.zip",
-            "tags": "",
-            "website": "",
-            "powerplug": {
-                "mode": "textures",
-                "src": "textures"
-            }
-        },
-        "creator": "Quixel",
-        "tags": "",
-        "realname": "Box Profile Metal Sheet",
-        "category": "Textures",
-        "date": 1779809967.8402603,
-        "size": "60187646",
-        "thumbnail": "Assets/box_profile_metal_sheet/thumbnail.png",
         "description": ""
     },
     {
@@ -282,16 +666,16 @@
         "tags": "",
         "realname": "Rough Plaster Broken",
         "category": "Textures",
-        "date": 1779809969.4302597,
+        "date": 1779897010.5659552,
         "size": "58627999",
         "thumbnail": "Assets/rough_plaster_broken/thumbnail.png",
         "description": ""
     },
     {
-        "name": "grey_roof_tiles_02",
+        "name": "rock_face_03",
         "repo": "A3D-Blacksmith/BM-Mackerel",
         "manifest": {
-            "name": "Grey Roof Tiles 02",
+            "name": "Rock Face 03",
             "creator": "Quixel",
             "category": "Textures",
             "filename": "Assets.zip",
@@ -304,11 +688,35 @@
         },
         "creator": "Quixel",
         "tags": "",
-        "realname": "Grey Roof Tiles 02",
+        "realname": "Rock Face 03",
         "category": "Textures",
-        "date": 1779809968.5562599,
-        "size": "67170728",
-        "thumbnail": "Assets/grey_roof_tiles_02/thumbnail.png",
+        "date": 1779897010.0449443,
+        "size": "80012346",
+        "thumbnail": "Assets/rock_face_03/thumbnail.png",
+        "description": ""
+    },
+    {
+        "name": "stone_tiles_02",
+        "repo": "A3D-Blacksmith/BM-Mackerel",
+        "manifest": {
+            "name": "Stone Tiles 02",
+            "creator": "Quixel",
+            "category": "Textures",
+            "filename": "Assets.zip",
+            "tags": "",
+            "website": "",
+            "powerplug": {
+                "mode": "textures",
+                "src": "textures"
+            }
+        },
+        "creator": "Quixel",
+        "tags": "",
+        "realname": "Stone Tiles 02",
+        "category": "Textures",
+        "date": 1779897010.8239605,
+        "size": "85014052",
+        "thumbnail": "Assets/stone_tiles_02/thumbnail.png",
         "description": ""
     },
     {
@@ -330,16 +738,16 @@
         "tags": "",
         "realname": "Stone Wall",
         "category": "Textures",
-        "date": 1779809969.7112596,
+        "date": 1779897010.8889618,
         "size": "58565157",
         "thumbnail": "Assets/stone_wall/thumbnail.png",
         "description": ""
     },
     {
-        "name": "red_brick_03",
+        "name": "herringbone_brick",
         "repo": "A3D-Blacksmith/BM-Mackerel",
         "manifest": {
-            "name": "Red Brick 03",
+            "name": "Herringbone Brick",
             "creator": "Quixel",
             "category": "Textures",
             "filename": "Assets.zip",
@@ -352,419 +760,11 @@
         },
         "creator": "Quixel",
         "tags": "",
-        "realname": "Red Brick 03",
+        "realname": "Herringbone Brick",
         "category": "Textures",
-        "date": 1779809968.83226,
-        "size": "71990197",
-        "thumbnail": "Assets/red_brick_03/thumbnail.png",
-        "description": ""
-    },
-    {
-        "name": "gray_rocks",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Gray Rocks",
-            "creator": "Quixel",
-            "category": "Textures",
-            "filename": "Assets.zip",
-            "tags": "",
-            "website": "",
-            "powerplug": {
-                "mode": "textures",
-                "src": "textures"
-            }
-        },
-        "creator": "Quixel",
-        "tags": "",
-        "realname": "Gray Rocks",
-        "category": "Textures",
-        "date": 1779809968.49326,
-        "size": "87870745",
-        "thumbnail": "Assets/gray_rocks/thumbnail.png",
-        "description": ""
-    },
-    {
-        "name": "concrete_wall_001",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Concrete Wall 001",
-            "creator": "Quixel",
-            "category": "Textures",
-            "filename": "Assets.zip",
-            "tags": "",
-            "website": "",
-            "powerplug": {
-                "mode": "textures",
-                "src": "textures"
-            }
-        },
-        "creator": "Quixel",
-        "tags": "",
-        "realname": "Concrete Wall 001",
-        "category": "Textures",
-        "date": 1779809968.10626,
-        "size": "47496255",
-        "thumbnail": "Assets/concrete_wall_001/thumbnail.png",
-        "description": ""
-    },
-    {
-        "name": "rock_embedded_floor",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Rock Embedded Floor",
-            "creator": "Quixel",
-            "category": "Textures",
-            "filename": "Assets.zip",
-            "tags": "",
-            "website": "",
-            "powerplug": {
-                "mode": "textures",
-                "src": "textures"
-            }
-        },
-        "creator": "Quixel",
-        "tags": "",
-        "realname": "Rock Embedded Floor",
-        "category": "Textures",
-        "date": 1779809968.9072597,
-        "size": "76749935",
-        "thumbnail": "Assets/rock_embedded_floor/thumbnail.png",
-        "description": ""
-    },
-    {
-        "name": "ganges_river_pebbles",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Ganges River Pebbles",
-            "creator": "Quixel",
-            "category": "Textures",
-            "filename": "Assets.zip",
-            "tags": "",
-            "website": "",
-            "powerplug": {
-                "mode": "textures",
-                "src": "textures"
-            }
-        },
-        "creator": "Quixel",
-        "tags": "",
-        "realname": "Ganges River Pebbles",
-        "category": "Textures",
-        "date": 1779809968.40926,
-        "size": "89651470",
-        "thumbnail": "Assets/ganges_river_pebbles/thumbnail.png",
-        "description": ""
-    },
-    {
-        "name": "rock_wall_15",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Rock Wall 15",
-            "creator": "Quixel",
-            "category": "Textures",
-            "filename": "Assets.zip",
-            "tags": "",
-            "website": "",
-            "powerplug": {
-                "mode": "textures",
-                "src": "textures"
-            }
-        },
-        "creator": "Quixel",
-        "tags": "",
-        "realname": "Rock Wall 15",
-        "category": "Textures",
-        "date": 1779809969.1302598,
-        "size": "85376459",
-        "thumbnail": "Assets/rock_wall_15/thumbnail.png",
-        "description": ""
-    },
-    {
-        "name": "plaster_brick_01",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Plaster Brick 01",
-            "creator": "Quixel",
-            "category": "Textures",
-            "filename": "Assets.zip",
-            "tags": "",
-            "website": "",
-            "powerplug": {
-                "mode": "textures",
-                "src": "textures"
-            }
-        },
-        "creator": "Quixel",
-        "tags": "",
-        "realname": "Plaster Brick 01",
-        "category": "Textures",
-        "date": 1779809968.7612598,
-        "size": "67689107",
-        "thumbnail": "Assets/plaster_brick_01/thumbnail.png",
-        "description": ""
-    },
-    {
-        "name": "stacked_stone_wall",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Stacked Stone Wall",
-            "creator": "Quixel",
-            "category": "Textures",
-            "filename": "Assets.zip",
-            "tags": "",
-            "website": "",
-            "powerplug": {
-                "mode": "textures",
-                "src": "textures"
-            }
-        },
-        "creator": "Quixel",
-        "tags": "",
-        "realname": "Stacked Stone Wall",
-        "category": "Textures",
-        "date": 1779809969.5752594,
-        "size": "70223225",
-        "thumbnail": "Assets/stacked_stone_wall/thumbnail.png",
-        "description": ""
-    },
-    {
-        "name": "concrete_wall_004",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Concrete Wall 004",
-            "creator": "Quixel",
-            "category": "Textures",
-            "filename": "Assets.zip",
-            "tags": "",
-            "website": "",
-            "powerplug": {
-                "mode": "textures",
-                "src": "textures"
-            }
-        },
-        "creator": "Quixel",
-        "tags": "",
-        "realname": "Concrete Wall 004",
-        "category": "Textures",
-        "date": 1779809968.1702602,
-        "size": "68241037",
-        "thumbnail": "Assets/concrete_wall_004/thumbnail.png",
-        "description": ""
-    },
-    {
-        "name": "rocky_terrain_03",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Rocky Terrain 03",
-            "creator": "Quixel",
-            "category": "Textures",
-            "filename": "Assets.zip",
-            "tags": "",
-            "website": "",
-            "powerplug": {
-                "mode": "textures",
-                "src": "textures"
-            }
-        },
-        "creator": "Quixel",
-        "tags": "",
-        "realname": "Rocky Terrain 03",
-        "category": "Textures",
-        "date": 1779809969.3342597,
-        "size": "97081335",
-        "thumbnail": "Assets/rocky_terrain_03/thumbnail.png",
-        "description": ""
-    },
-    {
-        "name": "corrugated_iron",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Corrugated Iron",
-            "creator": "Quixel",
-            "category": "Textures",
-            "filename": "Assets.zip",
-            "tags": "",
-            "website": "",
-            "powerplug": {
-                "mode": "textures",
-                "src": "textures"
-            }
-        },
-        "creator": "Quixel",
-        "tags": "",
-        "realname": "Corrugated Iron",
-        "category": "Textures",
-        "date": 1779809968.2402601,
-        "size": "73452309",
-        "thumbnail": "Assets/corrugated_iron/thumbnail.png",
-        "description": ""
-    },
-    {
-        "name": "aerial_grass_rock",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Aerial Grass Rock",
-            "creator": "Quixel",
-            "category": "Textures",
-            "filename": "Assets.zip",
-            "tags": "",
-            "website": "",
-            "powerplug": {
-                "mode": "textures",
-                "src": "textures"
-            }
-        },
-        "creator": "Quixel",
-        "tags": "",
-        "realname": "Aerial Grass Rock",
-        "category": "Textures",
-        "date": 1779809967.7162602,
-        "size": "77252926",
-        "thumbnail": "Assets/aerial_grass_rock/thumbnail.png",
-        "description": ""
-    },
-    {
-        "name": "coast_sand_rocks_02",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Coast Sand Rocks 02",
-            "creator": "Quixel",
-            "category": "Textures",
-            "filename": "Assets.zip",
-            "tags": "",
-            "website": "",
-            "powerplug": {
-                "mode": "textures",
-                "src": "textures"
-            }
-        },
-        "creator": "Quixel",
-        "tags": "",
-        "realname": "Coast Sand Rocks 02",
-        "category": "Textures",
-        "date": 1779809967.9862602,
-        "size": "84611905",
-        "thumbnail": "Assets/coast_sand_rocks_02/thumbnail.png",
-        "description": ""
-    },
-    {
-        "name": "rock_wall_13",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Rock Wall 13",
-            "creator": "Quixel",
-            "category": "Textures",
-            "filename": "Assets.zip",
-            "tags": "",
-            "website": "",
-            "powerplug": {
-                "mode": "textures",
-                "src": "textures"
-            }
-        },
-        "creator": "Quixel",
-        "tags": "",
-        "realname": "Rock Wall 13",
-        "category": "Textures",
-        "date": 1779809969.0472598,
-        "size": "69345245",
-        "thumbnail": "Assets/rock_wall_13/thumbnail.png",
-        "description": ""
-    },
-    {
-        "name": "rocky_terrain",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Rocky Terrain",
-            "creator": "Quixel",
-            "category": "Textures",
-            "filename": "Assets.zip",
-            "tags": "",
-            "website": "",
-            "powerplug": {
-                "mode": "textures",
-                "src": "textures"
-            }
-        },
-        "creator": "Quixel",
-        "tags": "",
-        "realname": "Rocky Terrain",
-        "category": "Textures",
-        "date": 1779809969.2422597,
-        "size": "70153524",
-        "thumbnail": "Assets/rocky_terrain/thumbnail.png",
-        "description": ""
-    },
-    {
-        "name": "aerial_rocks_02",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Aerial Rocks 02",
-            "creator": "Quixel",
-            "category": "Textures",
-            "filename": "Assets.zip",
-            "tags": "",
-            "website": "",
-            "powerplug": {
-                "mode": "textures",
-                "src": "textures"
-            }
-        },
-        "creator": "Quixel",
-        "tags": "",
-        "realname": "Aerial Rocks 02",
-        "category": "Textures",
-        "date": 1779809967.7832603,
-        "size": "69835205",
-        "thumbnail": "Assets/aerial_rocks_02/thumbnail.png",
-        "description": ""
-    },
-    {
-        "name": "roof_slates_03",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "Roof Slates 03",
-            "creator": "Quixel",
-            "category": "Textures",
-            "filename": "Assets.zip",
-            "tags": "",
-            "website": "",
-            "powerplug": {
-                "mode": "textures",
-                "src": "textures"
-            }
-        },
-        "creator": "Quixel",
-        "tags": "",
-        "realname": "Roof Slates 03",
-        "category": "Textures",
-        "date": 1779809969.3742597,
-        "size": "42175479",
-        "thumbnail": "Assets/roof_slates_03/thumbnail.png",
-        "description": ""
-    },
-    {
-        "name": "white_sandstone_blocks_02",
-        "repo": "A3D-Blacksmith/BM-Mackerel",
-        "manifest": {
-            "name": "White Sandstone Blocks 02",
-            "creator": "Quixel",
-            "category": "Textures",
-            "filename": "Assets.zip",
-            "tags": "",
-            "website": "",
-            "powerplug": {
-                "mode": "textures",
-                "src": "textures"
-            }
-        },
-        "creator": "Quixel",
-        "tags": "",
-        "realname": "White Sandstone Blocks 02",
-        "category": "Textures",
-        "date": 1779809969.7742598,
-        "size": "64878516",
-        "thumbnail": "Assets/white_sandstone_blocks_02/thumbnail.png",
+        "date": 1779897009.6849368,
+        "size": "79448855",
+        "thumbnail": "Assets/herringbone_brick/thumbnail.png",
         "description": ""
     }
 ]
